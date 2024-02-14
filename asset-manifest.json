@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fun-sleep-diet-studies/static/css/main.a2207e86.css",
+    "main.js": "/fun-sleep-diet-studies/static/js/main.9c2327e8.js",
+    "index.html": "/fun-sleep-diet-studies/index.html",
+    "main.a2207e86.css.map": "/fun-sleep-diet-studies/static/css/main.a2207e86.css.map",
+    "main.9c2327e8.js.map": "/fun-sleep-diet-studies/static/js/main.9c2327e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2207e86.css",
+    "static/js/main.9c2327e8.js"
+  ]
+}
